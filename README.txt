@@ -2,3 +2,4 @@
 
 こんにちわ！GitHub!
 commit1
+commit2-fetch
