@@ -6,3 +6,4 @@ commit2-fetch
 commit3-pull
 commit4 pullの確認
 commit5 git102
+commit6 git102
